@@ -1,1 +1,1 @@
-# Códigos feitos para a track Pyhton do Exercism.
+# Códigos feitos para a track Python do Exercism.
